@@ -1,0 +1,9 @@
+opik>=1.7
+jupyterlab>=4.0
+
+# 🔴 Add your model provider SDK, e.g.
+#   anthropic>=0.70
+#   openai>=1.60
+
+# 🔴 Add any client library the section-4 capabilities need
+#   (nothing extra is required while USE_STUB_CAPABILITIES is on)
